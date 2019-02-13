@@ -1,2 +1,7 @@
-public class DataEvaluator {
-}
+import java.util.ArrayList;
+
+/*public class DataEvaluator {
+
+    }
+
+} */
